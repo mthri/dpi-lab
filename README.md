@@ -23,7 +23,7 @@ Network types:
 
 ### 1.3 Gateway Server VM Configuration
 
-**Operating System**: Ubuntu Server 24.10
+**Operating System**: Ubuntu Server 24.04
 
 **Network Adapters**:
 
@@ -264,3 +264,12 @@ Important:
 * If the DPI process is not running, traffic handling depends on the firewall default policy
 
 ---
+Sure! Here's a concise and professional text you can add at the end of your document:
+
+---
+
+## Additional Resources
+
+I have recorded a comprehensive tutorial video in Persian (Farsi) covering this DPI lab setup and its usage. The video is available on both [YouTube](https://www.youtube.com/watch?v=zd0CjEYTvI8) and [Aparat](https://www.aparat.com/v/xqbrr74) platforms for your convenience.
+
+Feel free to watch it to better understand the steps and concepts involved.
